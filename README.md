@@ -17,7 +17,7 @@ A simple webscraper made for a another project. It collects the hourly weather i
 ## Sample run:
 
 ```bash
-python weather_scraper.py
+python wu-webscraper.py
 Enter the Weather Underground URL (e.g., https://www.wunderground.com/history/daily/country/state/city/code/date/): https://www.wunderground.com/history/daily/us/ny/new-york-city/KLGA/date/
 Enter the start date (yyyy-m-d): 2023-06-01
 Enter the end date (yyyy-m-d): 2023-06-30
